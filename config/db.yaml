@@ -1,0 +1,9 @@
+
+redis:
+  host: localhost
+  port: 6379
+  db: 0
+  pool:
+    minsize: 5
+    maxsize: 10
+

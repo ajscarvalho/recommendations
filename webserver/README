@@ -1,0 +1,7 @@
+optional:
+
+    aiohttp
+        install aiohttp to run aio webserver
+
+    trafaret
+        install trafaret for config validation

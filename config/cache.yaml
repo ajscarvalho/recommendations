@@ -1,0 +1,6 @@
+
+memory: 
+  DBG_MacAddressSampling: True
+
+csv:
+  defaultEncoding: "utf-8"

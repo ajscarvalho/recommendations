@@ -1,0 +1,15 @@
+
+file:
+  enabled:  False
+  level:    "DEBUG"
+  format:   "%(levelname)s - %(message)s"
+
+default:
+  enabled:  True
+  level:    "DEBUG"
+  format:   "%(levelname)s - %(message)s"
+
+stream:
+  enabled:  True
+  level:    "DEBUG"
+  format:
