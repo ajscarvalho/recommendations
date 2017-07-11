@@ -1,0 +1,1 @@
+Simple Log Lib for python processes
